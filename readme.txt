@@ -1,1 +1,3 @@
-学习Python 的Git工程
+瀛︿範Python 鐨凣it宸ョ▼
+
+This Project is under the GPL.
